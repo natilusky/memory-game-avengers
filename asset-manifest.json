@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-game-avengers/static/css/main.3d8a944d.chunk.css",
+    "main.js": "/memory-game-avengers/static/js/main.9e95eebb.chunk.js",
+    "main.js.map": "/memory-game-avengers/static/js/main.9e95eebb.chunk.js.map",
+    "runtime-main.js": "/memory-game-avengers/static/js/runtime-main.9fa8d3ad.js",
+    "runtime-main.js.map": "/memory-game-avengers/static/js/runtime-main.9fa8d3ad.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/memory-game-avengers/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.faac1747.chunk.js": "/memory-game-avengers/static/js/2.faac1747.chunk.js",
+    "static/js/2.faac1747.chunk.js.map": "/memory-game-avengers/static/js/2.faac1747.chunk.js.map",
+    "static/js/3.54eae677.chunk.js": "/memory-game-avengers/static/js/3.54eae677.chunk.js",
+    "static/js/3.54eae677.chunk.js.map": "/memory-game-avengers/static/js/3.54eae677.chunk.js.map",
+    "index.html": "/memory-game-avengers/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/memory-game-avengers/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.3d8a944d.chunk.css.map": "/memory-game-avengers/static/css/main.3d8a944d.chunk.css.map",
+    "static/js/2.faac1747.chunk.js.LICENSE.txt": "/memory-game-avengers/static/js/2.faac1747.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fa8d3ad.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.faac1747.chunk.js",
+    "static/css/main.3d8a944d.chunk.css",
+    "static/js/main.9e95eebb.chunk.js"
+  ]
+}
